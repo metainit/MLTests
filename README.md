@@ -1,2 +1,2 @@
 # MLTests
-Repository for testing purpouses
+ml5.js repository for testing purpouses
